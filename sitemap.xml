@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kesheng66.github.io/ksdesign/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kesheng66.github.io/ksdesign/</loc>
+</url>
+<url>
+<loc>https://kesheng66.github.io/ksdesign/test1/</loc>
+<lastmod>2021-12-08T00:20:41+08:00</lastmod>
+<image:image>
+<image:loc>https://kesheng66.github.io/ksdesign/media/posts/2/00-Mu-Lu-4-Yi-Dong.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kesheng66.github.io/ksdesign/test2/</loc>
+<lastmod>2021-12-07T00:14:12+08:00</lastmod>
+<image:image>
+<image:loc>https://kesheng66.github.io/ksdesign/media/posts/6/Jie-Ping-2021-10-31-Shang-Wu-11.32.55-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
