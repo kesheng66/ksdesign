@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "kesheng",
+    "title": "Steven Ke",
     "description": "",
     "home_page_url": "https://kesheng66.github.io/ksdesign",
     "feed_url": "https://kesheng66.github.io/ksdesign/feed.json",
     "user_comment": "",
     "author": {
-        "name": "kesheng.design"
+        "name": "Steven"
     },
     "items": [
         {
@@ -17,7 +17,7 @@
             "content_html": "\n  <p>\n    nothing&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kesheng66.github.io/ksdesign/media/posts/6/Jie-Ping-2021-10-31-Shang-Wu-11.32.55.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://kesheng66.github.io/ksdesign/media/posts/6/responsive/Jie-Ping-2021-10-31-Shang-Wu-11.32.55-xs.png 300w ,https://kesheng66.github.io/ksdesign/media/posts/6/responsive/Jie-Ping-2021-10-31-Shang-Wu-11.32.55-sm.png 480w ,https://kesheng66.github.io/ksdesign/media/posts/6/responsive/Jie-Ping-2021-10-31-Shang-Wu-11.32.55-md.png 768w ,https://kesheng66.github.io/ksdesign/media/posts/6/responsive/Jie-Ping-2021-10-31-Shang-Wu-11.32.55-lg.png 1024w\"  height=\"2520\" width=\"4480\" alt=\"\" />\n      \n    </figure>",
             "image": "https://kesheng66.github.io/ksdesign/media/posts/6/Jie-Ping-2021-10-31-Shang-Wu-11.32.55-2.png",
             "author": {
-                "name": "kesheng.design"
+                "name": "Steven"
             },
             "tags": [
                    "web",
@@ -35,7 +35,7 @@
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kesheng66.github.io/ksdesign/media/posts/2/00-Feng-Mian-1.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://kesheng66.github.io/ksdesign/media/posts/2/responsive/00-Feng-Mian-1-xs.jpg 300w ,https://kesheng66.github.io/ksdesign/media/posts/2/responsive/00-Feng-Mian-1-sm.jpg 480w ,https://kesheng66.github.io/ksdesign/media/posts/2/responsive/00-Feng-Mian-1-md.jpg 768w ,https://kesheng66.github.io/ksdesign/media/posts/2/responsive/00-Feng-Mian-1-lg.jpg 1024w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    AMP (accelerated mobile pages) creates mobile-optimized pages for your static content that render fast.<br>Please note: when this option is enabled your website will load third-party scripts provided by Google's AMP CDN.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://kesheng66.github.io/ksdesign/media/posts/2/00-Mu-Lu-3.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://kesheng66.github.io/ksdesign/media/posts/2/responsive/00-Mu-Lu-3-xs.jpg 300w ,https://kesheng66.github.io/ksdesign/media/posts/2/responsive/00-Mu-Lu-3-sm.jpg 480w ,https://kesheng66.github.io/ksdesign/media/posts/2/responsive/00-Mu-Lu-3-md.jpg 768w ,https://kesheng66.github.io/ksdesign/media/posts/2/responsive/00-Mu-Lu-3-lg.jpg 1024w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>",
             "image": "https://kesheng66.github.io/ksdesign/media/posts/2/00-Mu-Lu-4-Yi-Dong.jpg",
             "author": {
-                "name": "kesheng.design"
+                "name": "Steven"
             },
             "tags": [
                    "UX"
